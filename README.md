@@ -1,2 +1,2 @@
 # Web_Layout_HTML_CSS
-Web-вёрстка,  HTM, CSS
+Web-вёрстка,  HTML, CSS
